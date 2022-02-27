@@ -130,12 +130,6 @@
         "Entry"
         {
         "MsmKey" = "8:_DABDC77359D88CB5B2106F1892DFBF7D"
-        "OwnerKey" = "8:_019C75BA82E9E48CC6B1AC10565B1798"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DABDC77359D88CB5B2106F1892DFBF7D"
         "OwnerKey" = "8:_A8F594583297401CBB85A7E476869847"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -737,15 +731,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Kitak Police"
-        "ProductCode" = "8:{28F32222-3398-4C23-AA20-5FF491A70DD9}"
-        "PackageCode" = "8:{CEFC562D-74C9-4225-8545-2BDB3AB13C72}"
+        "ProductCode" = "8:{9E0C7A1A-3154-4C23-A083-65D304B42BD0}"
+        "PackageCode" = "8:{7648562C-45A9-4D6E-B631-3705900EEF66}"
         "UpgradeCode" = "8:{71D15A1B-9588-40B4-AC8B-1CEBC2300B98}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:0.1.0-alpha"
+        "ProductVersion" = "8:0.1.0"
         "Manufacturer" = "8:Kitak Project"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -869,7 +863,7 @@
             "Target" = "8:_A8F594583297401CBB85A7E476869847"
             "Folder" = "8:_854481310C2342919326791CF546FA6D"
             "WorkingFolder" = "8:_AF84AF23DF7D4CEBA5B6AC1FD60304B2"
-            "Icon" = "8:"
+            "Icon" = "8:_46786745D47C4C48AFE797AF38E18FDB"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_291BBB5B906A4BD78212ABE8DEE4C876"
