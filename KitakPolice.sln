@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitakPolice", "KitakPolice\KitakPolice.csproj", "{5BFAD7CE-CB1E-4CC8-926D-E509757C7260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullscreenDialog", "FullscreenDialog\FullscreenDialog.csproj", "{A6314A61-3178-4DCC-AC08-FC767099302A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "KitakPoliceSetup", "KitakPoliceSetup\KitakPoliceSetup.vdproj", "{FB50EF58-E58F-485B-BF46-754126210CB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BFAD7CE-CB1E-4CC8-926D-E509757C7260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFAD7CE-CB1E-4CC8-926D-E509757C7260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFAD7CE-CB1E-4CC8-926D-E509757C7260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFAD7CE-CB1E-4CC8-926D-E509757C7260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6314A61-3178-4DCC-AC08-FC767099302A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6314A61-3178-4DCC-AC08-FC767099302A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6314A61-3178-4DCC-AC08-FC767099302A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6314A61-3178-4DCC-AC08-FC767099302A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB50EF58-E58F-485B-BF46-754126210CB7}.Debug|Any CPU.ActiveCfg = Debug
+		{FB50EF58-E58F-485B-BF46-754126210CB7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0353740C-4EDA-4FC5-9461-A50483F2FB4A}
+	EndGlobalSection
+EndGlobal
